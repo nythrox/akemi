@@ -1,7 +1,7 @@
 body {
   /* #5da9dd */
   /* https://i.pinimg.com/originals/c0/83/7a/c0837a3f2855c632be8dbde4b7eeccba.jpg */
-  background: url("https://akemi.pumpkin.garden/gift/assets/bg.jpg");
+  /* background: url("https://akemi.pumpkin.garden/gift/assets/bg.jpg"); */
   background-size: cover;
   color: white;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -49,9 +49,9 @@ header {
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 0) 0%,
-    rgba(0, 0, 0, 0.2) 20%,
+    rgba(0, 0, 0, 0.30) 15%,
     rgba(1, 0, 18, 0.35) 50%,
-    rgba(0, 0, 0, 0.2) 80%,
+    rgba(0, 0, 0, 0.30) 85%,
     rgba(255, 255, 255, 0) 100%
   );
 
