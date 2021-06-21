@@ -1,18 +1,18 @@
 body {
   /* #5da9dd */
   /* https://i.pinimg.com/originals/c0/83/7a/c0837a3f2855c632be8dbde4b7eeccba.jpg */
-  background: url("https://i.pinimg.com/originals/5e/4c/65/5e4c655b9353e0be289273b3e7c4b227.jpg");
+  background: url("https://akemi.pumpkin.garden/gift/assets/bg.jpg");
   background-size: cover;
   color: white;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
+  height: 100vh;
   margin: 0;
   padding: 0 12px;
 }
 
-@media screen and (min-height: 900px) {
+@media screen and (min-width: 900px) {
   body {
-    height: 100vh;
     overflow: hidden;
   }
 }
